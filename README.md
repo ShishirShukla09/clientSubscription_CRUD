@@ -1,4 +1,4 @@
-# Subscription CRUD App
+# Client Subscription Management System
 
 This is a React application for managing subscriptions. It allows admin to create, read, update, and delete subscriptions.
 
